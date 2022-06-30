@@ -1,0 +1,11 @@
+var nomeEstudante = "Ana";
+console.log(nomeEstudante);
+var aprovada = true;
+console.log(aprovada);
+var hub = "Belo Horizonte";
+console.log(hub);
+var turma = 1;
+console.log(turma);
+var salario = 3500.70;
+console.log(salario);
+console.log(typeof nomeEstudante);
